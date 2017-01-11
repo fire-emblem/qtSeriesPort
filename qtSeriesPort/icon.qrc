@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>image/19.ICO</file>
+        <file>image/tj.png</file>
+    </qresource>
+</RCC>
